@@ -8,18 +8,18 @@ Particularmente, sinto que absorvo e aprendo melhor quando registro tudo em form
 
 ## Duração do Curso
  - Início em **03 de Março de 2024.**
- - Conclusão prevista em **24 de Novembro de 2024.**
+ - Conclusão prevista em **29 de Dezembro de 2024.**
 
 ## Disciplinas 
 - [x] ✔️ Evolução dos Softwares: Aplicação da Engenharia de Software em Sistemas Emergentes
 - [x] ✔️ Engenharia de requisitos
 - [x] ✔️ Arquitetura de software
-- [ ] :shipit: Modelagem e arquitetura do DW (Data Warehouse) <sub>[Em andamento]</sub>
-- [ ] Arquiteturas e infraestruturas em nuvem
-- [ ] Design Patterns e gerência de configuração: do projeto ao controle de versões
-- [ ] Interface de programação de aplicações (API) e Web Services
-- [ ] Aplicações móveis
-- [ ] Práticas da cultura DevOps no desenvolvimento de sistemas
+- [x] ✔️ Modelagem e arquitetura do DW (Data Warehouse) <sub>[Em andamento]</sub>
+- [x] ✔️ Arquiteturas e infraestruturas em nuvem
+- [x] ✔️ Design Patterns e gerência de configuração: do projeto ao controle de versões
+- [x] ✔️ Interface de programação de aplicações (API) e Web Services
+- [x] ✔️ Aplicações móveis
+- [x] ✔️ Práticas da cultura DevOps no desenvolvimento de sistemas
 
 ## Resumos
 - [Resumo 01 - O que é DevOps e como surgiu?](https://github.com/BrunoRijo/Especializa-o-em-Arquitetura-de-Software/blob/main/Resumos/Resumo%2001%20-%20O%20que%20%C3%A9%20DevOps%20e%20como%20surgiu%3F.md)
@@ -33,3 +33,4 @@ Particularmente, sinto que absorvo e aprendo melhor quando registro tudo em form
 - [Resumo 09 - Padrões Arquiteturais de Software MVC e SOA](https://github.com/BrunoRijo/Especializa-o-em-Arquitetura-de-Software/blob/main/Resumos/Resumo%2009%20-%20Padr%C3%B5es%20Arquiteturais%20de%20Software%20MVC%20e%20SOA.md)
 - [Resumo 10 - Padrões Arquiteturais de Software Pipes-and-filters e Peer-to-Peer](https://github.com/BrunoRijo/Especializa-o-em-Arquitetura-de-Software/blob/main/Resumos/Resumo%2010%20-%20Padr%C3%B5es%20Arquiteturais%20de%20Software%20Pipes-and-filters%20e%20Peer-to-Peer.md)
 - [Resumo 11 - Arquitetura de Microsserviços e Publish-Subscribe](https://github.com/BrunoRijo/Especializa-o-em-Arquitetura-de-Software/blob/main/Resumos/Resumo%2011%20-%20Arquitetura%20de%20Microsservi%C3%A7os%20e%20Publish-Subscribe.md)
+- [Resumo 12 - Introdução a Modelos de Dados, Modelo de BD Hierárquico, Modelo Relacional e Modelo de Rede](https://github.com/BrunoRijo/Especializa-o-em-Arquitetura-de-Software/blob/main/Resumos/Resumo%2012%20-%20Introdu%C3%A7%C3%A3o%20a%20Modelos%20de%20Dados%2C%20Modelo%20de%20BD%20Hier%C3%A1rquico%2C%20Modelo%20Relacional%20e%20Modelo%20de%20Rede..md)
