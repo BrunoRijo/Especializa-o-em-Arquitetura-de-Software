@@ -10,6 +10,9 @@ Particularmente, sinto que absorvo e aprendo melhor quando registro tudo em form
  - Início em **03 de Março de 2024.**
  - Conclusão prevista em **29 de Dezembro de 2024.**
 
+## Certificado de Conclusão
+[Clique aqui para ver](https://kroton.platosedu.io/docs/visualizar/298.298.d89faaede1f06a18fbb01c45f561c1e28f2edcaec0c1039bf865ba8be327fec8)
+
 ## Disciplinas 
 - [x] ✔️ Evolução dos Softwares: Aplicação da Engenharia de Software em Sistemas Emergentes
 - [x] ✔️ Engenharia de requisitos
@@ -22,6 +25,7 @@ Particularmente, sinto que absorvo e aprendo melhor quando registro tudo em form
 - [x] ✔️ Práticas da cultura DevOps no desenvolvimento de sistemas
 
 ## Resumos
+- [Resumo 00 - Evolução e melhorias dos processos da Engenharia de Software](https://github.com/BrunoRijo/Especializa-o-em-Arquitetura-de-Software/blob/main/Resumos/Resumo%2000%20-%20Evolu%C3%A7%C3%A3o%20e%20melhorias%20dos%20processos%20da%20Engenharia%20de%20Software.md)
 - [Resumo 01 - O que é DevOps e como surgiu?](https://github.com/BrunoRijo/Especializa-o-em-Arquitetura-de-Software/blob/main/Resumos/Resumo%2001%20-%20O%20que%20%C3%A9%20DevOps%20e%20como%20surgiu%3F.md)
 - [Resumo 02 - DevOps no contexto de Engenharia de Software](https://github.com/BrunoRijo/Especializa-o-em-Arquitetura-de-Software/blob/main/Resumos/Resumo%2002%20-%20DevOps%20no%20contexto%20de%20Engenharia%20de%20Software.md)
 - [Resumo 03 - Ciclo de Desenvolvimento e o Analista de Requisitos](https://github.com/BrunoRijo/Especializa-o-em-Arquitetura-de-Software/blob/main/Resumos/Resumo%2003%20-%20Ciclo%20de%20Desenvolvimento%20e%20o%20Analista%20de%20Requisitos%20.md)
