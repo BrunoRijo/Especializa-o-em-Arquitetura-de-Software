@@ -1,6 +1,6 @@
 # Padrões Arquiteturais de Software Pipes-and-filters e Peer-to-Peer
 >[!Note]
->Resumo 45, Especialização em Eng. de Software por Bruno Rijo
+>Resumo 10, Especialização em Arquitetura de Software por Bruno Rijo
 
 ## Arquitetura Pipes-and-filters (PF) 👨‍🏭 
 Nesse modelo arquitetural a funcionalidade de um sistema é organizada como uma série de componentes independentes chamados "filtros". Esses filtros processam dados e os transmitem para o próximo filtro através de "pipes" (tubos), formando uma cadeia ou pipeline. É mais utilizado em aplicações que necessitam de processamento sequencial de dados, como sistemas de áudio, vídeo ou dados em lote.
