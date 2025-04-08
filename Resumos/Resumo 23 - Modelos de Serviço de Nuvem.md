@@ -25,8 +25,13 @@ Refere-se a aplicações prontas, que utilizamos através de um cliente, mas que
 Pra fechar, uma analogia dos modelos de serviço de nuvem usando modelos de transporte como exemplo.
 
 Quando alguém precisa de um serviço de nuvem é com ose precisasse de um transporte para ir ao trabalho.
+
 Se a pessoa comprar o seu próprio veículo, é como se utilizasse o modelo on-premise, pois ela será responsável por comprar, dar manutenção dirigir o veíceulo de sua casa até o trabalho, inclusive escolher o melhor caminho.
+
 Caso a pessoa lugue um carro, seria semelhante ao uso de um modelo Iaas, a pessoa contrata o veículo pronto, e não precisa dar manutenção, terá apenas de dirigir o veículo e escolher a melhor rota.
+
+Caso a pessoa peça um táxi, seria análoga ao modelo Saas, pois nesse caso, embora a pessoa não seja dona do veículo e nem precise dirigir o veículo, ela precisará escolher qual o caminho que será trafegado.
+E por último, em comparação ao modelo Saas, caso o cliente pegue um ônibus ela não terá controle nenhum sobre a estrutura, ou rota que o carro irá seguir, apenas contratará o serviço e chegará ao local combinado.
 
 Esse foi o resumo de hoje! :)
 
