@@ -25,5 +25,6 @@ Para ver a lista completa com todos os resumos que já produzi do meu curso de A
 #SoftwareEngineer #SoftwareArchitecture #EngenhariaDeSoftware #ArquiteturadeSoftware #SoftwareDeveloper
 
 Fontes:
+- Ferreira, Arthur Gonçalves. F383d - Design Patterns e gerência de configuração: do projeto ao controle de versões / Arthur Gonçalves Ferreira, – São Paulo: Platos Soluções Educacionais S.A., 2021.
 - https://docs.oracle.com/en/java/javase/24/
 - https://docwiki.embarcadero.com/Libraries/Sydney/en/System.Generics
