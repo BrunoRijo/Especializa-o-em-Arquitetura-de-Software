@@ -21,3 +21,6 @@ A estrutura básica é composta por:
 4. ConcreteImplementor - contém as implementações reais.
 
 No próximo resumo vou falar sobre o Chain of Responsability.
+
+Fontes:
+- Ferreira, Arthur Gonçalves. F383d - Design Patterns e gerência de configuração: do projeto ao controle de versões / Arthur Gonçalves Ferreira, – São Paulo: Platos Soluções Educacionais S.A., 2021.
